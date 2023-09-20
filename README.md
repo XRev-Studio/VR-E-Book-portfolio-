@@ -1,4 +1,4 @@
-![VR E-Book Reader Banner](images/vrebook.png)
+![VR E-Book Reader Banner](ebook1.png)
 
 **Experience the Future of Reading with VR E-Book Reader**
 
